@@ -13,3 +13,8 @@
 *.idb
 *.obj
 
+DES/.vs/DES/v15/.suo
+*.exe
+*.pch
+DES/pch.h
+DES/pch.cpp
