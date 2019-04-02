@@ -1,2 +1,2 @@
 # Cryptography
-Introduction to Cryptography, NCTUCS, 2019 Summer
+Introduction to Cryptography, NCTU, CS, 2019 Summer
