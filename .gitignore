@@ -1,2 +1,15 @@
 
 *.ilk
+*.log
+*.vcxproj
+*.pdb
+*.db
+*.ipch
+*.sln
+*.filters
+*.user
+*.lastbuildstate
+*.tlog
+*.idb
+*.obj
+
